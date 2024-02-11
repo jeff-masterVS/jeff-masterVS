@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jeff-masterVS
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python,mern stack
+- 💞️ I’m looking to collaborate on web edevelopment
+- 📫 How to reach me pls dont
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im 15
